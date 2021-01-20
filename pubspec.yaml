@@ -2,7 +2,7 @@ name: sam_card_flutter
 description: A flutter package for custom card.
 version: 0.0.1
 author: Syed Asif Mahmood <this.asif.cse@gmail.com>
-homepage: https://github.com/syedasif007/sam_textbox_flutter.git
+homepage: https://github.com/syedasif007/sam_card_flutter.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
