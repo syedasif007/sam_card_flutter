@@ -1,5 +1,5 @@
 # sam_card_flutter
 
-A flutter package for custom card.
+A flutter package for custom horizontal card.
 
 ## Getting Started
